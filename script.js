@@ -143,7 +143,6 @@ const profile = {
       items: [
         "University of Glasgow full scholarship, 2025.",
         "XJTLU postgraduate admission scholarship, 2023.",
-        "First Prize, National English Competition for College Students, 2021.",
         "YSU undergraduate scholarships, 2020-2021.",
       ],
     },
@@ -295,7 +294,6 @@ const profile = {
       items: [
         "格拉斯哥大学全额奖学金，2025。",
         "西交利物浦大学研究生入学奖学金，2023。",
-        "全国大学生英语能力竞赛国家级一等奖，2021。",
         "燕山大学本科生奖学金，2020-2021。",
       ],
     },
