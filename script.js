@@ -62,7 +62,7 @@ const profile = {
           authors:
             "Junxian You, Rui Yang, Zidong Wang.",
           venue:
-            "IEEE Transactions on Industrial Informatics (TII), 2026. JCR Q1, IF 9.8, CCF C.",
+            "IEEE Transactions on Industrial Informatics (TII), 2026. JCR Q1, IF 9.8.",
           url: "",
         },
         {
@@ -219,7 +219,7 @@ const profile = {
             "FedRepu: A Reputation-Based Aggregation Strategy for Federated Learning in Bearing Fault Diagnosis.",
           authors:
             "Junxian You, Rui Yang, Zidong Wang.",
-          venue: "IEEE Transactions on Industrial Informatics (TII), 2026. JCR Q1, IF 9.8, 中科院1区 Top, CCF C.",
+          venue: "IEEE Transactions on Industrial Informatics (TII), 2026. JCR Q1, IF 9.8, 中科院1区 Top.",
           url: "",
         },
         {
